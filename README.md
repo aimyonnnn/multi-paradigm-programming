@@ -22,6 +22,12 @@
 6. 멀티패러다임 프로그래밍
 7. 객체 지향 프론트엔드 개발, 그리고 멀티패러다임적 접근과 응용
 
+## 📖 부록: 코틀린 멀티패러다임 이터레이션 (무료 공개)
+
+『[코틀린 멀티패러다임 이터레이션](https://github.com/marpple/kotlin-multi-paradigm-iteration)』은 『멀티패러다임 프로그래밍』의 부록으로, 본서의 핵심 내용을 코틀린 언어에 특화하여 풀어낸 자료입니다. 
+
+- [보러가기](https://github.com/marpple/kotlin-multi-paradigm-iteration)
+
 ## 🚀 퀵 메뉴
 
 - [예제 환경 설치](#%EF%B8%8F-예제-환경-설치)
